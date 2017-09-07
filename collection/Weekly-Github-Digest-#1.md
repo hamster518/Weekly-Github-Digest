@@ -3,7 +3,7 @@
 
 #### Web - 網路本身高風險，請詳閱公開說明書
 - [bemusic/bemuse](https://github.com/bemusic/bemuse)  ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
-  > 應該蠻多人去過電子遊樂場玩過類似像 BEAT 的機台，沒什麼節奏感的人像筆者一下子就 GG。該專案是使用 React 搭配 Pixi.js 技術開發的網頁版節奏遊戲，各種設定和配置都做的相當到位，包含鍵盤模式，預設歌單和自訂清單，還提供手把手教學，下班後就別想 code 了，玩一波之後再來研究它的原始碼吧～
+  > 應該蠻多人去過電子遊樂場玩過類似像 BEAT 的機台，沒什麼節奏感的人像筆者一下子就 GG。該專案是使用 React 搭配 Pixi.js 技術開發的網頁版節奏遊戲，各種設定和配置都做的相當到位，包含鍵盤模式，預設歌單和自訂清單，還提供手把手教學，下班後就別寫 code 了，玩一波之後再來研究它的原始碼吧～
   <p align="center">
     <a target="_blank" href="https://github.com/bemusic/bemuse"><img alt="bemuse" src="https://i.imgur.com/Vfd9mTI.png"></a>
   </p>
@@ -38,7 +38,7 @@
 #### Useful OSS - 好用的開源軟體
 
 - [hackmdio/hackmd](https://github.com/hackmdio/hackmd)  Realtime collaborative markdown notes on all platforms.
-  > 臺灣人開發的 Markdown Editor，除了提供即時協作，還支援了學術圖表製作以及實用的投影簡報模式，到後來連[五線譜](https://hackmd.io/features#abc)都可以撰寫，太多讓人眼睛一亮的 features 讓每次的使用都像種享受。
+  > 臺灣人開發的 Markdown Editor，除了提供即時協作，還支援了學術圖表製作以及實用的投影簡報模式，到後來連[五線譜](https://hackmd.io/features#abc)都可以撰寫，太多讓人眼睛一亮的 features 讓每次的使用都是種享受。
   <p align="center">
     <a target="_blank" href="https://github.com/hackmdio/hackmd"><img alt="hackmd" src="https://i.imgur.com/hLDaibK.png">       </a>
   </p>
