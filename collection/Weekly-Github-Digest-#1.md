@@ -8,6 +8,8 @@
 - [tholman/elevator.js](https://github.com/tholman/elevator.js)  Finally, a "back to top" button that behaves like a real elevator.
   > 雖然是兩年多前的專案了，但沒差啊！就是因為可以把 old school 的 Go Top 玩出新花樣才讓 Web 顯得有趣而吸引人啊。
 
+---
+
 #### Terminal - 已經是 iTerm 的形狀了呢
 - [warner/magic-wormhole](https://github.com/warner/magic-wormhole)  get things from one computer to another, safely
   > 前幾天和同事拿一個設計師給的 Sketch 檔，原本想說用 AirDrop 直接丟最方便，結果卻變成我找到他他找不到我，東西丟不過來想罷工啊，既然 AirDrop 在鬧脾氣就乾脆在 Github 上找找有無替代方案，然後就很神奇的找到這個連名字都很神奇的蟲洞。
@@ -27,24 +29,34 @@
   ```
   就這樣整個很 Geek Style 的搞定了，不過該作法的大前提是雙方都必須先行安裝蟲洞。
 
+---
+
 #### Useful OSS - 好用的開源軟體
 
 - [hackmdio/hackmd](https://github.com/hackmdio/hackmd)  Realtime collaborative markdown notes on all platforms.
   > 臺灣人開發的 Markdown Editor，除了提供即時協作，還支援了學術圖表製作以及實用的投影簡報模式，到後來連[五線譜](https://hackmd.io/features#abc)都可以撰寫，太多讓人眼睛一亮的 features 讓每次的使用都像種享受。
+
+---
 
 #### Developers - 開發者們
 
 - [Tim Holman](https://github.com/tholman)  Tinkerer, tuner & tamperer. Conference comedic relief.
   > 在 Codepen 工作的其中一位核心開發者，他的開源作品都相當有梗，本期介紹的 elevator 就出自於這位玩家。
 
+---
+
 #### Technical Posts - 你都去哪看技術文啊城武
 
 - [cssmagic/blog](https://github.com/cssmagic/blog/issues)  CSS魔法 - 博客
   > 多數的文章主題較為偏向 CSS 和前端建構工具，但也有[不少](https://github.com/cssmagic/blog/issues/23)值得一看的翻譯文。
 
+---
+
 #### You Need Some Music, And A Bottle of Dry Martini - 你一定要把氣氛搞得這麼銷魂嗎
 - [Aimer - Hoshi no Kieta Yoru ni ~ Live](https://www.youtube.com/watch?v=-gllAwK15rQ)
   > 靈魂歌姬 Aimer 去年有來臺灣表演，當時還在軍中的筆者趁著短暫的休假請朋友去全家搶早鳥票，畢竟沒手機用也不知道有沒有搶到，想說週末放假等好消息。超爽的該週還全連么八。結果上車一開手機訊息就發現朋友搶票晚了五分鐘去，然後就沒了。
+
+
 
 
 ---
