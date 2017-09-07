@@ -4,7 +4,9 @@
 #### Web - 網路本身高風險，請詳閱公開說明書
 - [bemusic/bemuse](https://github.com/bemusic/bemuse)  ⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
   > 應該蠻多人去過電子遊樂場玩過類似像 BEAT 的機台，沒什麼節奏感的人像筆者一下子就 GG。該專案是使用 React 搭配 Pixi.js 技術開發的網頁版節奏遊戲，各種設定和配置都做的相當到位，包含鍵盤模式，預設歌單和自訂清單，還提供手把手教學，下班後就別想 code 了，玩一波之後再來研究它的原始碼吧～
-
+  <p align="center">
+    <a target="_blank" href="https://github.com/bemusic/bemuse"><img alt="bemuse" src="https://i.imgur.com/Vfd9mTI.png"></a>
+  </p>
 - [tholman/elevator.js](https://github.com/tholman/elevator.js)  Finally, a "back to top" button that behaves like a real elevator.
   > 雖然是兩年多前的專案了，但沒差啊！就是因為可以把 old school 的 Go Top 玩出新花樣才讓 Web 顯得有趣而吸引人啊。
 
