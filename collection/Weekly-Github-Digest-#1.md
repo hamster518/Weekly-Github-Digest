@@ -9,7 +9,9 @@
   </p>
 - [tholman/elevator.js](https://github.com/tholman/elevator.js)  Finally, a "back to top" button that behaves like a real elevator.
   > 雖然是兩年多前的專案了，但沒差啊！就是因為可以把 old school 的 Go Top 玩出新花樣才讓 Web 顯得有趣而吸引人啊。
-
+  <p align="center">
+    <a target="_blank" href="https://github.com/tholman/elevator.js"><img alt="elevatorjs" src="https://i.imgur.com/VGSsqjZ.png"></a>
+  </p>
 ---
 
 #### Terminal - 已經是 iTerm 的形狀了呢
