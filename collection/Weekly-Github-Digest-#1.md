@@ -63,7 +63,7 @@
   > 靈魂歌姬 Aimer 去年有來臺灣表演，當時還在軍中的筆者趁著短暫的休假請朋友去全家搶早鳥票，畢竟沒手機用也不知道有沒有搶到，想說週末放假等好消息。超爽的該週還全連么八。結果上車一開手機訊息就發現朋友搶票晚了五分鐘去，然後就沒了。
   <p align="center"> 
     <a href="https://www.youtube.com/watch?v=-gllAwK15rQ">
-      <img src="https://i.imgur.com/E6Y1rf0.png" alt="Video Demo" width="754" />
+      <img src="https://i.imgur.com/E6Y1rf0.png" alt="Video Demo" />
     </a>
   </p>
 
