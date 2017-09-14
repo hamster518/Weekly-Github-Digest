@@ -18,6 +18,7 @@
 | 2017/09 | 2017/10 |
 | --- | --- |
 | [#1](https://git.io/v5wkZ) |  |
+| [#2](https://git.io/v59se) |  |
 
 ## License
 
