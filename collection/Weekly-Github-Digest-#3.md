@@ -32,7 +32,7 @@
   ```
   如果有用 alfred 的人會更推薦搭配這套[alfred-lock](https://github.com/sindresorhus/alfred-lock) 使用：
   ```shell
-  $ mpm i -g alfred-lock
+  $ npm i -g alfred-lock
   ```
   使用熱鍵叫出 alfred 接著打 lock 關鍵字後筆電就被當初設定的密碼鎖住啦，同事再也不會趁你不在時亂用帳號偷發文(咦)。
   
