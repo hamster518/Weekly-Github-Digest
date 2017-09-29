@@ -1,6 +1,6 @@
 ## Weekly-Github-Digest
 
-> A published weekly with a Thursday publication date
+> 想要訂閱的請按 `watch`，想鼓勵作者持續寫作的歡迎給 `star`
 
 ![從零到無](https://i.imgur.com/PBHE5zN.png?1)
 
