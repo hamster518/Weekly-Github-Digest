@@ -1,10 +1,10 @@
 ## Weekly-Github-Digest
 
-> A published weekly with a Thursday publication date
-
 ![從零到無](https://i.imgur.com/PBHE5zN.png?1)
 
 > Photo Credit By [Here](https://www.facebook.com/Taiwan.reporter.IQ.less.than30/photos/a.917098568347065.1073741829.915826835140905/1119971088059811/?type=1&theater)
+
+> 想要訂閱的請按 `watch`，想鼓勵作者持續寫作的歡迎給 `star`
 
 ## Intro
 
@@ -20,6 +20,7 @@
 | [#1](https://git.io/v5wkZ) |  |
 | [#2](https://git.io/v59se) |  |
 | [#3](https://git.io/v5jRd) |  |
+| [#4](https://git.io/vdYRm) |  |
 
 ## License
 
