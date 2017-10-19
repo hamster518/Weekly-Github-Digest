@@ -19,7 +19,7 @@
 | --- | --- |
 | [#1](https://git.io/v5wkZ) | [#5](https://git.io/vdBJi) |
 | [#2](https://git.io/v59se) | [#6](https://git.io/vdKRJ) |
-| [#3](https://git.io/v5jRd) |  |
+| [#3](https://git.io/v5jRd) | [#7](https://git.io/vd7tz) |
 | [#4](https://git.io/vdYRm) |  |
 
 ## License
